@@ -4,5 +4,6 @@
 xx中間可以隨時These release notes describe issues 
 specific to the Git for 
 Windows release. 手的速度平
+Remote !!!
 
 手的速度平
