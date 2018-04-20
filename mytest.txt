@@ -6,3 +6,6 @@ specific to the Git for
 Windows release. 手的速度平
 
 手的速度平
+
+
+Local here ####
