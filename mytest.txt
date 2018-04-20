@@ -1,8 +1,8 @@
 大聯盟投手的速度平
 均都很快
-These release notes describe issues 
+稱為「master」，
+xx中間可以隨時These release notes describe issues 
 specific to the Git for 
 Windows release. 手的速度平
 
 手的速度平
-稱為「master」，中間可以隨時
